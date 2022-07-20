@@ -134,6 +134,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+greatkart/.env
 env/
 venv/
 ENV/
